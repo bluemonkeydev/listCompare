@@ -1,4 +1,4 @@
-listComare
+listCompare
 ==========
 
 Compares two files and creates a merged output with two columns indicating which of the files contain each row.
